@@ -66,7 +66,7 @@ python main.py
 5️⃣ **Prevents re-processing** using a session log (`session.json`).
 
 ## **📝 Example Usage**
-1. Add an `.mp3` or `.mp4` file to the monitored folder.
+1. Add an `.mp3` or `.mp4` file to the media folder.
 2. The system detects it and transcribes the speech.
 3. A `.txt` file with the transcription is saved alongside the media file.
 4. If you add the same file again, it will be skipped.
